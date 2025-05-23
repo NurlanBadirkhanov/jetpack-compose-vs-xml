@@ -3,6 +3,8 @@
 ![Jetpack Compose vs XML Banner](./banner.png)
 
 
+
+
 Jetpack Compose vs XML
 Which UI toolkit is better for Android in 2025?
 By Nurlan Badirkhanov — Mobile Developer 🇦🇿
