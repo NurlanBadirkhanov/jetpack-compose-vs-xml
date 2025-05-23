@@ -1,5 +1,13 @@
 # jetpack-compose-vs-xml
 # Jetpack Compose vs XML: Which UI Framework Should You Choose in 2025?
+![Jetpack Compose vs XML Banner](./banner.png)
+
+
+Jetpack Compose vs XML
+Which UI toolkit is better for Android in 2025?
+By Nurlan Badirkhanov — Mobile Developer 🇦🇿
+> Tags: Jetpack Compose, XML, Android UI, Kotlin, Firebase, Android Developer, 2025
+
 
 ![Jetpack Compose vs XML](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pkbicmoqiw9acuwr6htf.png)
 
